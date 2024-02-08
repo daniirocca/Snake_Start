@@ -24,3 +24,6 @@ Contribuições são bem-vindas! Se você tem conhecimento em Python e deseja aj
 
 Vamos aprender Python juntos!
 
+
+
+![image](https://github.com/daniirocca/descomplicando-python/assets/117545155/a363c0b9-c410-4d6b-817d-ab85ceb39491)
