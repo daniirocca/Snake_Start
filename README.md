@@ -1,6 +1,6 @@
 # Primeiros Passos com Python
 
-Bem-vindo ao repositório **Descomplicando Python**! Este é um recurso dedicado a ajudar novos programadores a aprenderem Python de forma eficaz e divertida. Se você é um iniciante absoluto na programação ou está apenas começando com Python, este é o lugar certo para começar.
+Bem-vindo ao repositório **Descomplicando Python**! Aqui, nós desbravamos o mundo da programação Python de um jeito fácil e divertido. Se você tá começando agora na programação ou se aventurando pelo mundo mágico do Python, veio ao lugar certo!
 
 ## Sobre este repositório
 
