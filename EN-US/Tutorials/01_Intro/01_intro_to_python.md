@@ -10,13 +10,6 @@ Python is a high-level, beginner-friendly programming language. It's widely used
 - Artificial intelligence  
 - Task automation
 
-### Why learn Python?
-
-- Simple and readable syntax  
-- Huge and welcoming community  
-- Tons of free tutorials and documentation  
-- Used by companies like Google, Netflix, and NASA!
-
 ### Writing your first code
 
 Open your code editor or terminal and type:
