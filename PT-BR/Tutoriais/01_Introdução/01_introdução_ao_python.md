@@ -10,13 +10,6 @@ Python é uma linguagem de programação de alto nível, fácil de aprender e mu
 - Inteligência artificial  
 - Automação de tarefas
 
-### Por que aprender Python?
-
-- Sintaxe simples e legível  
-- Comunidade ativa e amigável  
-- Muita documentação e recursos gratuitos  
-- Usada por empresas como Google, Netflix e NASA!
-
 ### Escrevendo seu primeiro código
 
 Abra o seu editor de código ou terminal e digite:
