@@ -1,7 +1,5 @@
 # Introdução ao Python
 
-## 🇧🇷 Em português
-
 ### O que é Python?
 
 Python é uma linguagem de programação de alto nível, fácil de aprender e muito poderosa. Ela é usada em diversas áreas como:
