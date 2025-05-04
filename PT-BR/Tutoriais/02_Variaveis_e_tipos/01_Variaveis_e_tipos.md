@@ -1,7 +1,5 @@
 # Variáveis e Tipos de Dados
 
-## 🇧🇷 Em português
-
 ### O que são variáveis?
 
 Variáveis são como “caixinhas” onde você pode guardar valores para usar depois.  
