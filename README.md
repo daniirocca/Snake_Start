@@ -1,10 +1,8 @@
-# 🐍 Descomplicando Python: Primeiros Passos
+# 🐍 Descomplicando Python: Primeiros Passos com Snake Start
 
-Seja muito bem-vindo(a) ao **Descomplicando Python**!  
 Aqui a ideia é simples: **aprender Python sem dor de cabeça**.  
-Se você está começando na programação ou quer entender de vez como o Python funciona, chegou ao lugar certo!
 
-> Aprender a programar pode (e deve!) ser divertido. Bora juntos nessa jornada?
+Se você está começando na programação ou quer entender de vez como o Python funciona, chegou ao lugar certo!
 
 ![Descomplicando Python](https://github.com/daniirocca/descomplicando-python/assets/117545155/a363c0b9-c410-4d6b-817d-ab85ceb39491)
 
@@ -53,7 +51,7 @@ Você pode contribuir de várias formas:
 
 ## Dica final
 
-> O mais importante não é saber tudo, mas **começar**.  
+> O mais importante não é saber tudo, mas **começar**.
 > Dê o primeiro passo, erre sem medo, aprenda com os erros e... continue!
 
 ---
